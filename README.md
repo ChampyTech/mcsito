@@ -1,2 +1,1 @@
-# mcsito
-Attenzione: questo sito non fornisce patatine gratis.
+## ATTENZIONE! QUESTO SITO NON FORNISCE PATATINE GRATIS.
